@@ -1,0 +1,4 @@
+#Wed Nov 22 12:12:48 IST 2017
+base.0=C\:\\Users\\rajat\\AndroidStudioProjects\\Lab4\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+renamed.0=classes.dex
+file.0=C\:\\Users\\rajat\\AndroidStudioProjects\\Lab4\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\28\\classes.dex
