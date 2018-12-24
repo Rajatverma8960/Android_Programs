@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="firstimg">FirstImg</string>
+    <string name="yes">YES</string>
+    <string name="registration_button">Registration button</string>
+    <string name="textview">TextView</string>
+    <string name="full_name">Full Name</string>
+    <string name="male">Male</string>
+    <string name="string_email_id">\@string/Email Id</string>
+    <string name="female">Female</string>
+    <string name="address">Address</string>
+    <string name="email_id">Email id</string>
+    <string name="Mobile">Mobile</string>
+    <string name="married">Married</string>
+    <string name="birthday">Birthday</string>
+    <string name="title_activity_third">thirdActivity</string>
+    <string name="submit">Submit</string>
+    <string name="no">NO</string>
+
+</resources>

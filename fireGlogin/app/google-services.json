@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "996962361040",
+    "firebase_url": "https://fireglogin-f1849.firebaseio.com",
+    "project_id": "fireglogin-f1849",
+    "storage_bucket": "fireglogin-f1849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996962361040:android:291f060084fdd1a4",
+        "android_client_info": {
+          "package_name": "com.example.rajat.fireglogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996962361040-ho0tksm3alq6oh4m6jbsm8vj4vsj64k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajat.fireglogin",
+            "certificate_hash": "fe5224e4839a8eb923ff31a378e249ce4cef3b93"
+          }
+        },
+        {
+          "client_id": "996962361040-jurgh676d7jemni12fmadj87csatm19m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU-nQ3AMKMuxkqvHfmSRH_aQRqYn5QDzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996962361040-jurgh676d7jemni12fmadj87csatm19m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
